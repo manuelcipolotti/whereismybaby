@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "id": "login",
+      "title": "LOGIN"
+    },
+    {"id": "doc",
+    "title":"DOCUMENTI"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
